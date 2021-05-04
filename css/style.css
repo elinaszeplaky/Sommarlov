@@ -106,9 +106,10 @@ div.galleri img {
 }
 
 div.beskrivning {
-  padding: 35px;
+  padding: 15px;
   color: white;
   text-align: center;
+  font-size: 40px;
 }
 
 
